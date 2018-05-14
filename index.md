@@ -1,5 +1,5 @@
 ---
-title: Bitcoin: A Peer-to-Peer Electronic Cash System
+title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
 ---
 
 
