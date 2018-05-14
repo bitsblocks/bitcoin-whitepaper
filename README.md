@@ -4,9 +4,9 @@ See the live version @ [`bitsblocks.github.io/bitcoin-whitepaper`](http://bitsbl
 ---
 
 
-# Bitcoin White Paper (Manuscripts Book Edition)
+# Bitcoin White Paper - A Peer-to-Peer Electronic Cash System (Manuscripts Book Edition)
 
-A Peer-to-Peer Electronic Cash System
+
 
 by Satoshi Nakamoto
 
