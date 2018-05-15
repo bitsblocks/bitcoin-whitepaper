@@ -1,0 +1,20 @@
+######################
+#  Table of Contents
+
+
+- title: "Bitcoin: A Peer-to-Peer Electronic Cash System"
+  path:  index.md
+  sections:
+  - title: Introduction
+  - title: Transactions
+  - title: Timestamp Server
+  - title: Proof-of-Work
+  - title: Network
+  - title: Incentive
+  - title: Reclaiming Disk Space
+  - title: Simplified Payment Verification
+  - title: Combining and Splitting Value
+  - title: Privacy
+  - title: Calculations
+  - title: Conclusion
+  - title: References
